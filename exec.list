@@ -1,0 +1,9 @@
+iptables -L -v > ./iptables/iptables-L-v
+alternatives > alternatives
+chkconfig --list > chkconfig--list
+fdisk > fdisk
+df -T > df-T
+parted -l > parted-l
+pvdisplay > pvdisplay
+vgdisplay > vgdisplay
+lvdisplay > lvdisplay
